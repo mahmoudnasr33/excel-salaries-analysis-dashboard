@@ -1,2 +1,3 @@
-# excel-salaries-analysis-dashboard
-An interactive Excel dashboard for analyzing salary distribution, workforce demographics, and experience-based compensation trends using pivot tables and dynamic filters.
+# Salaries Analysis Dashboard (Interactive Dashboard using MS Excel)
+## Project Objective
+Build an interactive Excel dashboard to analyze salary distribution and trends across departments, job roles, locations, education levels, and experience.
