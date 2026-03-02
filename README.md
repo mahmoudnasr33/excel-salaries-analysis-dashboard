@@ -26,3 +26,5 @@ Build an interactive Excel dashboard to analyze salary distribution and trends a
 - Designed a professional dashboard layout for clear visualization.
 
 - ## Dashboard
+
+<img width="1459" height="641" alt="Dashboard" src="https://github.com/user-attachments/assets/2fcbe92d-339e-402f-a2ed-529dca27a942" />
