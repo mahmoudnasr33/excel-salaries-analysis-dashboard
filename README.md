@@ -28,3 +28,17 @@ Build an interactive Excel dashboard to analyze salary distribution and trends a
 - ## Dashboard
 
 <img width="1459" height="641" alt="Dashboard" src="https://github.com/user-attachments/assets/2fcbe92d-339e-402f-a2ed-529dca27a942" />
+
+## Project Insights
+
+- Total salary reached 4.96M across all employees.
+- IT and R&D departments have the highest average salaries.
+- Salary increases clearly with experience level.
+- Employees with a Master’s degree earn the highest average salary.
+- Workforce gender distribution is nearly balanced (47% Male – 53% Female).
+
+- ## Final Conclusion
+
+The analysis shows that salary structure is mainly driven by department, experience level, and education. 
+Technical departments and employees with higher experience or advanced degrees receive higher compensation.
+This dashboard provides a clear, data-driven view to support better salary planning and workforce decisions.
